@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zakki-z</br>
-- 🧑‍💻 I'm a software engineer</br>
-- 👀 I’m interested in AI/ML</br>
+- 🧑‍💻 Software engineer</br>
+- ☕ Java developer</br>
+- 👀 Interested in AI/ML</br>
 - 📫 Reach me at azharizaki88@gmail.com</br>
 
 # 💻 Tech Stack:
