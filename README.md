@@ -2,6 +2,7 @@
 - 🧑‍💻 Software engineer</br>
 - ☕ Java developer</br>
 - 👀 Interested in AI/ML</br>
+- 🌐 My portfolio [zakicodes.engineer](https://zakicodes.engineer) 
 - 📫 Reach me at azharizaki88@gmail.com</br>
 
 # 💻 Tech Stack:
